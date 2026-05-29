@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 无关文件
+opencli-extension-v1.0.15/
+opencli-extension-v1.0.15.zip
+
+# 快捷方式 / 构建文件
+*.lnk
+*.spec
+build_v30/
