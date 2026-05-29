@@ -18,6 +18,9 @@ Thumbs.db
 opencli-extension-v1.0.15/
 opencli-extension-v1.0.15.zip
 
+# 前端页面 (本地保留, 不上传)
+web/
+
 # 快捷方式 / 构建文件
 *.lnk
 *.spec
