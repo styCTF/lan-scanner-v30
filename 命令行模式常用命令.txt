@@ -1,0 +1,14 @@
+# 列出所有网卡
+python lan_scanner.py -l
+
+# 扫描第 1 个网卡
+python lan_scanner.py -i 1
+
+# 扫描指定网段
+python lan_scanner.py -n 192.168.1.0/24
+
+# 自动导出 CSV
+python lan_scanner.py -i 1 -e
+
+# 查看完整帮助
+python lan_scanner.py -h
