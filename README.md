@@ -103,7 +103,3 @@ python lan_scanner.py -h
 pip install pyinstaller
 pyinstaller --onefile --windowed --name "局域网扫描器V30" v30/lan_scanner.py
 ```
-
-## License
-
-MIT
